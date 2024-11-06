@@ -173,3 +173,5 @@ export const ERROR_OCCURED_PLAYER_INITIALS_ALREADY_SET =
     "Error Occured: Player initial data has already been set."
 export const ERROR_OCCURED_PLAYER_DATA_NOT_SUBMITTED = 
     "Error Occured: Could not submit initial player data.";
+export const ERROR_OCCURRED_PLAYER_ID_MISSING = 
+    "ERROR_OCCURRED_PLAYER_ID_MISSING";
