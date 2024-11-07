@@ -65,7 +65,7 @@ This API endpoint allows a super admin to create a new admin user by setting cus
 
 #### 500 Internal Server Error: When admin creation fails due to an unexpected server error.
 
-- **Status Code**: 400
+- **Status Code**: 500
 - **Response Format**: JSON
 - **Response Body**:
   ```json
