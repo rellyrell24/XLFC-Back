@@ -29,5 +29,6 @@ module.exports = {
     "object-curly-spacing": "off",
     "valid-jsdoc": "off",
     "quote-props": "off",
+    "linebreak-style": 0,
   },
 };
